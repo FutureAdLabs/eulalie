@@ -1,6 +1,6 @@
 {
   "name": "@adludio/eulalie",
-  "version": "2.5.3",
+  "version": "3.0.0",
   "description": "ES6 flavoured parser combinators",
   "main": "index.js",
   "scripts": {
