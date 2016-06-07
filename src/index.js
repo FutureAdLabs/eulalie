@@ -6,7 +6,7 @@ import chalk from "chalk";
 
 function isGen(v) {
   try {
-    if (regeneratorRuntime) {
+    if (typeof regeneratorRuntime !== undefined) {
       /* global regeneratorRuntime */
       return regeneratorRuntime.isGeneratorFunction(v);
     }
