@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/FutureAdLabs/eulalie.git"
   },
-  "author": "Bodil Stokke",
+  "author": "",
   "license": "LGPL-3.0+",
   "bugs": {
     "url": "https://github.com/FutureAdLabs/eulalie/issues"
