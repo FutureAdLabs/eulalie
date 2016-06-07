@@ -1,5 +1,5 @@
 {
-  "name": "eulalie",
+  "name": "@adludio/eulalie",
   "version": "2.5.3",
   "description": "ES6 flavoured parser combinators",
   "main": "index.js",
@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bodil/eulalie.git"
+    "url": "git+https://github.com/FutureAdLabs/eulalie.git"
   },
   "author": "Bodil Stokke",
   "license": "LGPL-3.0+",
   "bugs": {
-    "url": "https://github.com/bodil/eulalie/issues"
+    "url": "https://github.com/FutureAdLabs/eulalie/issues"
   },
-  "homepage": "https://github.com/bodil/eulalie#readme",
+  "homepage": "https://github.com/FutureAdLabs/eulalie#readme",
   "files": [
     "index.js",
     "string.js",
