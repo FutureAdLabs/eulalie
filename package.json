@@ -33,7 +33,7 @@
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.26",
     "babel-eslint": "6.0.3",
-    "babel-preset-node": "^5.1.1",
+    "babel-preset-es2015-node4": "^2.0.1",
     "babel-preset-stage-2": "^6.3.13",
     "babel-register": "^6.7.2",
     "eslint": "2.8.0",
@@ -45,7 +45,7 @@
   "babel": {
     "plugins": [],
     "presets": [
-      "es2015-node5",
+      "es2015-node4",
       "stage-2"
     ]
   },
